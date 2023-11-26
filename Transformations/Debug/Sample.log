@@ -1,0 +1,11 @@
+﻿  sample.cpp
+C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_2\code\sample.cpp(493,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_2\code\sample.cpp(493,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_2\code\sample.cpp(494,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_2\code\sample.cpp(494,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_2\code\sample.cpp(495,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_2\code\sample.cpp(913,55): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_2\code\sample.cpp(914,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_2\code\sample.cpp(915,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_2\code\Debug\Sample.exe
