@@ -1,0 +1,6 @@
+
+ERROR: 0:31: 'vSc' : undeclared identifier 
+ERROR: 0:31: 'vRt' : undeclared identifier 
+ERROR: 0:31: 'vTc' : undeclared identifier 
+
+
