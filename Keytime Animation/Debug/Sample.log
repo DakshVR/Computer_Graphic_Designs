@@ -1,49 +1,49 @@
 ﻿  sample.cpp
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\loadobjfile.cpp(125,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\loadobjfile.cpp(128,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\loadobjfile.cpp(131,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(389,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(489,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(490,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(521,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(904,26): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(905,26): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(906,26): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(907,26): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(908,26): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(945,27): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(946,27): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(953,27): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(954,27): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(961,27): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(962,27): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(969,27): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(970,27): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(978,27): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(979,27): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(987,27): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(988,27): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(995,28): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(996,28): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(1002,28): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(1003,28): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(1009,28): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(1010,28): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(1026,30): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(1028,30): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(1030,30): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(1075,39): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(1079,39): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(1080,40): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(1083,35): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(1084,35): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(1085,35): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(1086,35): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(1087,35): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(1088,34): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(1128,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(1128,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(1129,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\sample.cpp(1129,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Desktop\Computer_Graphics\Keytime Animation\loadobjfile.cpp(125,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Computer_Graphics\Keytime Animation\loadobjfile.cpp(128,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Computer_Graphics\Keytime Animation\loadobjfile.cpp(131,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(389,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(489,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(490,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(522,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(905,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(906,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(907,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(908,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(909,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(946,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(947,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(954,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(955,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(962,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(963,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(970,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(971,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(979,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(980,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(988,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(989,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(996,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(997,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(1003,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(1004,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(1010,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(1011,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(1027,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(1029,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(1031,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(1076,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(1080,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(1081,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(1084,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(1085,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(1086,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(1087,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(1088,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(1089,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(1129,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(1129,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(1130,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Desktop\Computer_Graphics\Keytime Animation\sample.cpp(1130,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
 sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
-  Sample.vcxproj -> C:\Desktop\Academic\4th Year\1 - Fall Term\CS 550 Info To Computer Graphics\pcs550\Project_4\code\Debug\Sample.exe
+  Sample.vcxproj -> C:\Desktop\Computer_Graphics\Keytime Animation\Debug\Sample.exe

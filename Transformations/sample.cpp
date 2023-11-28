@@ -45,7 +45,7 @@
 // title of these windows:
 
 int			WhichViewPerspective;	// Inside or Outside
-const char *WINDOWTITLE = "Project2 / GLUT Sample -- Horses";
+const char *WINDOWTITLE = "Transformation -- Daksh Viradiya";
 const char *GLUITITLE   = "User Interface Window";
 
 // what the glui package defines as true and false:

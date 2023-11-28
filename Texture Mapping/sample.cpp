@@ -39,11 +39,11 @@
 //		6. The transformations to be reset
 //		7. The program to quit
 //
-//	Author:			Joe Graphics
+//	Author:			Daksh Viradiya
 
 // title of these windows:
 
-const char *WINDOWTITLE = "OpenGL / GLUT Sample -- Joe Graphics";
+const char *WINDOWTITLE = "Texture MAppinf -- Daksh Viradiya";
 const char *GLUITITLE   = "User Interface Window";
 
 // what the glui package defines as true and false:
