@@ -43,7 +43,7 @@
 
 // title of these windows:
 
-const char *WINDOWTITLE = "Texture MAppinf -- Daksh Viradiya";
+const char *WINDOWTITLE = "Texture Mapping -- Daksh Viradiya";
 const char *GLUITITLE   = "User Interface Window";
 
 // what the glui package defines as true and false:
